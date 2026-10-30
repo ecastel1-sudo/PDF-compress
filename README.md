@@ -1,4 +1,4 @@
-# compress-pdf
+# compress your pdf
 
 A small Python script that shrinks PDFs so they're light enough to send by email or LinkedIn.
 
